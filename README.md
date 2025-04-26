@@ -28,7 +28,7 @@ Tools & Technologies Used
 
 * Threading – Real-time spectator camera movement
 
-AI Traffic and Pedestrians – Simulation of real-world dynamics
+* AI Traffic and Pedestrians – Simulation of real-world dynamics
 
 Working Principle
 * Launches a foggy driving environment with adjustable fog density and visibility.
